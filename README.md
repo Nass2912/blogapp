@@ -11,8 +11,5 @@
 From the project root, run:
 
 ```bash
-npm i 
+npm install
 npm run setup
-
-## Run
-npm run start
